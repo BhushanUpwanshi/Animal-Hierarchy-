@@ -1,3 +1,6 @@
 hello checkout
 
+<<<<<<< HEAD
 again try it
+=======
+>>>>>>> 138378bc2bbd24b716a7e42dee226845653cfcb3
